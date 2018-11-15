@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/DXTabControl_RestrictingSelection/DataSource.cs) (VB: [DataSource.vb](./VB/DXTabControl_RestrictingSelection/DataSource.vb))
+* [MainWindow.xaml](./CS/DXTabControl_RestrictingSelection/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXTabControl_RestrictingSelection/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/DXTabControl_RestrictingSelection/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXTabControl_RestrictingSelection/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to Prevent the DXTabControl's Tab Items from being Selected
 
 
